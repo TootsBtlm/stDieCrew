@@ -29,4 +29,5 @@ Pour charger/mettre à jour le projet pour tout le monde :
 	/git/stDieCrew$ git push
 	-entrer les identifiants de votre compte Git
 
+
 Bisous
