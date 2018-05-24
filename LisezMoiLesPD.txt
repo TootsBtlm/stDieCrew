@@ -22,4 +22,11 @@ Pour télécharger/mettre à jour le projet sur votre ordi :
 	-entrer les identifiants de votre compte Git
 
 Pour charger/mettre à jour le projet pour tout le monde :
-	/git/stDieCrew$ git -a 
+	/git/stDieCrew$ git -a commit
+	-votre editeur de texte s'ouvre, vous devez note quelques mots sur les modif que vous venez de faire et votre nom. Ex : "MaJ de la classe BBQ.java par LePinSylvestre".
+	-fermer en sauvegardant
+	-taper:
+	/git/stDieCrew$ git push
+	-entrer les identifiants de votre compte Git
+
+Bisous
