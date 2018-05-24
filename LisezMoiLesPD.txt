@@ -1,4 +1,25 @@
 # stDieCrew
 24h de Nancy, programmation et bière pong tu connais
 
-OKOK
+-----------------------------------------------------
+
+
+Git c'est la galère alors suivez les instructions :
+
+
+Pour vous connectez à notre projet avec votre console :
+	-créer un repertoir "git" pour tous vos projets
+	-dans votre repertoire taper la commande :
+	/git$ git clone https://github.com/TootsBtlm/stDieCrew.git
+	-vous avez maintenant le répertoire du projet
+
+
+Pour changer l'editeur de texte par défaut pour ne pas avoir l'editeur de merde dans la console :
+	$ git config --global core.editor nomEditeur (gedit chez moi)
+
+Pour télécharger/mettre à jour le projet sur votre ordi :
+	/git/stDieCrew$ git pull
+	-entrer les identifiants de votre compte Git
+
+Pour charger/mettre à jour le projet pour tout le monde :
+	/git/stDieCrew$ git -a 
